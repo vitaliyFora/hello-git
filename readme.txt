@@ -1,4 +1,3 @@
 Hi there!
 Git it
-GGGGiiit IT
-ggggggg
+GIT IT
